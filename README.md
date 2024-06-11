@@ -20,7 +20,7 @@ Currently, two official plugins are available:
 To get started with the project, clone the repository and install the dependencies:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Akash-INN095/Admin-Dashboard-React-Vite
 cd react-vite-dashboard
 npm install
 ```
